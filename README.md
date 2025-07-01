@@ -1,3 +1,5 @@
 # **🧠 Brainy Bot**
 
-Brainy Bot is a multifunctional AI assistant that acts as an intelligent chatbot, supports image uploads, provides real-time object detection, and enables seamless speech-to-text and text-to-speech interactions — all packed into a single application.
+A multifunctional AI assistant with real-time object detection, image upload, and speech interaction capabilities.
+
+🔗 [Live Demo](https://brainybot-eta.vercel.app)
